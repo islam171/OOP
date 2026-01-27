@@ -13,7 +13,7 @@ public class program1 {
 		    System.out.printf("+%s+\n", space);
 		    System.out.printf("|%s|\n", name);
 		    System.out.printf("+%s+\n", space);
-		
+		input.close();
 	}
 
 }
